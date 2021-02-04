@@ -4,4 +4,5 @@ public class Main {
         System.out.println("Hello Git Last Day");
     }
     // the first line added
+    // the second line is added
 }
